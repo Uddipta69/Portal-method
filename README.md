@@ -147,5 +147,5 @@ MIT License – see `LICENSE` (add one via GitHub when you create the repo).
 
 ## Author
 
-*Your Name Here* – feel free to open an issue or pull request if you find a bug
+*Uddipta Bhaskar Sarma (uddiptasarma361@gmail.com)* – feel free to open an issue or pull request if you find a bug
 or want to suggest an improvement.
