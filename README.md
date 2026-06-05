@@ -141,7 +141,7 @@ See `requirements.txt`.  The core dependencies are:
 
 ## License
 
-MIT License – see `LICENSE` (add one via GitHub when you create the repo).
+MIT License – see `MIT license`
 
 ---
 
